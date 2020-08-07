@@ -112,7 +112,7 @@
 | PDB |||
 
 
-## Drug Cell Lines Dataset
+## Pharmacogenomics Dataset
 
 #### Drug Response Prediction (DrugResponse)
 
