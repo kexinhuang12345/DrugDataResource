@@ -75,10 +75,16 @@
 
 ## Protein Functions Dataset
 
-#### Protein Structures (SRTUCT)
+#### Protein Structural Classification (SRTUCT)
 | Dataset Name | Link | Description (Optional)|
 |--------------|------|-------------|
 | SCOP |||
+
+#### Protein Quality Assessment (QA)
+| Dataset Name | Link | Description (Optional)|
+|--------------|------|-------------|
+| Rosetta-300K |||
+| CASP13 |||
 
 ## Drugs Dataset
 
