@@ -2,9 +2,7 @@
 <p> Datasets for Drug Discovery and Development 
 </h1>
 
----
-
-### Interaction Dataset
+## Interaction Dataset
 
 #### Drug-Target Interaction (DTI)
 
@@ -43,7 +41,7 @@
 | DeepDDI |||
 | BIOSNAP |||
 
-### Drug Property Dataset
+## Drug Property Dataset
 
 #### High-Throughput Screening Assay (HTS)
 
@@ -75,14 +73,14 @@
 | QM8 |||
 | QM9 |||
 
-### Protein Functions
+## Protein Functions
 
 #### Protein Structures (SRTUCT)
 | Dataset Name | Link | Description (Optional)|
 |--------------|------|-------------|
 | SCOP |||
 
-### Drugs Dataset
+## Drugs Dataset
 
 #### Drug Molecular Graphs/SMILES (Drug2D)
 
@@ -98,7 +96,7 @@
 |--------------|------|-------------|
 | e-Drug3D | [link](https://chemoinfo.ipmc.cnrs.fr/MOLDB/index.php) | |
 
-### Proteins Dataset
+## Proteins Dataset
 
 #### Protein Amino Acid Sequence (Protein1D)
 
@@ -113,7 +111,7 @@
 |--------------|------|-------------|
 | PDB |||
 
-### Clinical Trials
+## Clinical Trials
 
 | Dataset Name | Link | Description (Optional)|
 |--------------|------|-------------|
