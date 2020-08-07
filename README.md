@@ -17,6 +17,9 @@
 | BRENDA |||
 | SuperTarget |||
 | GPCRdb |||
+| STITCH | || 
+| TTD |||
+| PDBBind |||
 
 #### Disease-Gene Interaction (DGI)
 
@@ -32,6 +35,8 @@
 |--------------|------|-------------|
 | BIOSNAP |||
 | HuRI | | |
+| STRING |||
+| Biocreative PPI |||
 
 #### Drug-Drug Interaction (DDI)
 
@@ -40,6 +45,7 @@
 | DrugBank |||
 | DeepDDI |||
 | BIOSNAP |||
+| Twosides |||
 
 ## Drug Property Dataset
 
@@ -65,6 +71,7 @@
 | ToxCast |||
 | ClinTox |||
 | SIDER |||
+| OFFSIDES |||
 
 #### Quantum Mechanics (QM) 
 | Dataset Name | Link | Description (Optional)|
@@ -79,6 +86,7 @@
 | Dataset Name | Link | Description (Optional)|
 |--------------|------|-------------|
 | SCOP |||
+| dSPP |||
 
 #### Protein Quality Assessment (QA)
 | Dataset Name | Link | Description (Optional)|
@@ -102,6 +110,12 @@
 |--------------|------|-------------|
 | e-Drug3D | [link](https://chemoinfo.ipmc.cnrs.fr/MOLDB/index.php) | |
 
+#### Repurposing Library (REPURPOSE)
+
+| Dataset Name | Link | Description (Optional)|
+|--------------|------|-------------|
+| Broad Repurposing Hub |||
+
 ## Proteins Dataset
 
 #### Protein Amino Acid Sequence (Protein1D)
@@ -117,8 +131,35 @@
 |--------------|------|-------------|
 | PDB |||
 
+## Biomedical Knowledge Graph
+
+| Dataset Name | Link | Description (Optional)|
+|--------------|------|-------------|
+| HetioNet |||
+| ogbn-biokg |||
+| DRKG |||
+
+## Chemical Synthesis Dataset
+
+#### Retrosynthesis (RetroSyn)
+| Dataset Name | Link | Description (Optional)|
+|--------------|------|-------------|
+| USPTO-50K |||
+
+
+#### Reaction Yields Prediction (YIELDS)
+| Dataset Name | Link | Description (Optional)|
+|--------------|------|-------------|
+| Buchwald-Hartwig |||
+| Suzuki-Miyaura |||
 
 ## Pharmacogenomics Dataset
+
+#### Pharmacogenomics Knowledge Base (KB)
+
+| Dataset Name | Link | Description (Optional)|
+|--------------|------|-------------|
+| PharmGKB |||
 
 #### Drug Response Prediction (DrugResponse)
 
@@ -142,5 +183,8 @@
 |ATTC|||
 |ICTRP|||
 
-
+## microRNA Dataset
+| Dataset Name | Link | Description (Optional)|
+|--------------|------|-------------|
+| HMDD |||
 
