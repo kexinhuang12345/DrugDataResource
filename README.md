@@ -73,7 +73,7 @@
 | QM8 |||
 | QM9 |||
 
-## Protein Functions
+## Protein Functions Dataset
 
 #### Protein Structures (SRTUCT)
 | Dataset Name | Link | Description (Optional)|
@@ -111,7 +111,25 @@
 |--------------|------|-------------|
 | PDB |||
 
-## Clinical Trials
+
+## Drug Cell Lines Dataset
+
+#### Drug Response Prediction (DrugResponse)
+
+| Dataset Name | Link | Description (Optional)|
+|--------------|------|-------------|
+| CCLE |||
+| GDSC |||
+
+#### Drug Synergy Prediction (DrugSyn)
+
+| Dataset Name | Link | Description (Optional)|
+|--------------|------|-------------|
+| NCI-DREAM |||
+| OncoPolyPharmacology |||
+| NCI-ALMANAC |||
+
+## Clinical Trial Dataset
 
 | Dataset Name | Link | Description (Optional)|
 |--------------|------|-------------|
