@@ -87,6 +87,7 @@
 |--------------|------|-------------|
 | SCOP |||
 | dSPP |||
+| CATH |||
 
 #### Protein Quality Assessment (QA)
 | Dataset Name | Link | Description (Optional)|
