@@ -189,3 +189,8 @@
 |--------------|------|-------------|
 | HMDD |||
 
+## Chemical Reaction Dataset
+| Dataset Name | Link | Description (Optional)|
+|--------------|------|-------------|
+|USPTO-50k|||
+|ICTRP|||
