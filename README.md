@@ -67,9 +67,6 @@
 |--------------|------|-------------|
 | ESOL |||
 | Lipophilicity |||
-| Tox21 |||
-| ToxCast |||
-| ClinTox |||
 | SIDER |||
 | OFFSIDES |||
 | HIA | [link](https://drugdataloader.s3.amazonaws.com/HIA.csv) | absorption. Binary label. 499 positive samples and 78 negative samples. | 
@@ -83,6 +80,10 @@
 | CYP3A4 | [link](https://drugdataloader.s3.amazonaws.com/CYP3A4.csv)| metabolism. Binary label. "1" means xxx, "0" means. 2,769 positive samples and 11,127 negative samples. |
 | half-life-eDrug3D | [link](https://drugdataloader.s3.amazonaws.com/half_life_eDrug3D.csv) | excretion. continuous label. 1,250 samples. |
 | Clearance-eDrug3D | [link](https://drugdataloader.s3.amazonaws.com/Clearance_eDrug3D.csv) | excretion. continuous label. 963 samples. |
+| Tox21 | [link](http://moleculenet.ai/datasets-1) | Toxicity. 7,832 samples.  |
+| ToxCast | [link](http://moleculenet.ai/datasets-1) | Toxicity. 8,598 samples. Binary label. |
+| ClinTox | [link](http://moleculenet.ai/datasets-1) | Toxicity. 1,485 samples. Binary label.  |
+
 
 #### Quantum Mechanics (QM) 
 | Dataset Name | Link | Description (Optional)|
