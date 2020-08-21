@@ -72,10 +72,15 @@
 | ClinTox |||
 | SIDER |||
 | OFFSIDES |||
+| HIA | [link](https://drugdataloader.s3.amazonaws.com/HIA.csv) | absorption. Binary label. 499 positive samples and 78 negative samples. | 
+| bioavailability-eDrug3D | [link](https://drugdataloader.s3.amazonaws.com/bioavailability_eDrug3D.csv) | absorption. 492 positive samples and 150 negative samples. | 
+| bioavailability | [link](https://drugdataloader.s3.amazonaws.com/bioavailability.csv) | absorption. percentage, continuous label, 529 samples.  | 
+| CACO-2 | [link](https://drugdataloader.s3.amazonaws.com/caco-2.csv) | absorption. continuous label, 1,272 samples.  | 
 | CYP2C19 | [link](https://drugdataloader.s3.amazonaws.com/CYP2C19.csv) | metabolism. Binary label. "1" means xxx, "0" means. 5,905 positive samples and 7,522 negative samples. |
 | CYP2D6 | [link](https://drugdataloader.s3.amazonaws.com/CYP2D6.csv)| metabolism. Binary label. "1" means xxx, "0" means. 2,769 positive samples and 11,127 negative samples. |
-| CYP3A4 | [link](https://drugdataloader.s3.amazonaws.com/CYP3A4.csv)| metabolism. Binary label. "1" means xxx, "0" means. |
-
+| CYP3A4 | [link](https://drugdataloader.s3.amazonaws.com/CYP3A4.csv)| metabolism. Binary label. "1" means xxx, "0" means. 2,769 positive samples and 11,127 negative samples. |
+| half-life-eDrug3D | [link](https://drugdataloader.s3.amazonaws.com/half_life_eDrug3D.csv) | excretion. continuous label. 1,250 samples. |
+| Clearance-eDrug3D | [link](https://drugdataloader.s3.amazonaws.com/Clearance_eDrug3D.csv) | excretion. continuous label. 963 samples. |
 
 #### Quantum Mechanics (QM) 
 | Dataset Name | Link | Description (Optional)|
