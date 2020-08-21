@@ -72,6 +72,10 @@
 | ClinTox |||
 | SIDER |||
 | OFFSIDES |||
+| CYP2C19 | [link](https://drugdataloader.s3.amazonaws.com/CYP2C19.csv) | metabolism. Binary label. "1" means xxx, "0" means. 5,905 positive samples and 7,522 negative samples. |
+| CYP2D6 | [link](https://drugdataloader.s3.amazonaws.com/CYP2D6.csv)| metabolism. Binary label. "1" means xxx, "0" means. 2,769 positive samples and 11,127 negative samples. |
+| CYP3A4 | [link](https://drugdataloader.s3.amazonaws.com/CYP3A4.csv)| metabolism. Binary label. "1" means xxx, "0" means. |
+
 
 #### Quantum Mechanics (QM) 
 | Dataset Name | Link | Description (Optional)|
