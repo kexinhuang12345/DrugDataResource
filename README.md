@@ -69,17 +69,17 @@
 | Lipophilicity |||
 | SIDER |||
 | OFFSIDES |||
-| HIA | [link](https://drugdataloader.s3.amazonaws.com/HIA.csv) | absorption. Binary label. 499 positive samples and 78 negative samples. | 
-| bioavailability-eDrug3D | [link](https://drugdataloader.s3.amazonaws.com/bioavailability_eDrug3D.csv) | absorption. Binary label. 492 positive samples and 150 negative samples. | 
-| bioavailability | [link](https://drugdataloader.s3.amazonaws.com/bioavailability.csv) | absorption. percentage, continuous label, 529 samples.  | 
-| CACO-2 | [link](https://drugdataloader.s3.amazonaws.com/caco-2.csv) | absorption. continuous label, 1,272 samples.  | 
-| BBB | [link](https://drugdataloader.s3.amazonaws.com/BBB.csv) | Distribution. Binary label. 1,282 positive samples and 310 negative samples. | 
-| PPBR | [link](https://drugdataloader.s3.amazonaws.com/BBB.csv) | Distribution. Binary label. 411 positive samples and 356 negative samples. | 
-| CYP2C19 | [link](https://drugdataloader.s3.amazonaws.com/CYP2C19.csv) | metabolism. Binary label. "1" means xxx, "0" means. 5,905 positive samples and 7,522 negative samples. |
-| CYP2D6 | [link](https://drugdataloader.s3.amazonaws.com/CYP2D6.csv)| metabolism. Binary label. "1" means xxx, "0" means. 2,769 positive samples and 11,127 negative samples. |
-| CYP3A4 | [link](https://drugdataloader.s3.amazonaws.com/CYP3A4.csv)| metabolism. Binary label. "1" means xxx, "0" means. 2,769 positive samples and 11,127 negative samples. |
-| half-life-eDrug3D | [link](https://drugdataloader.s3.amazonaws.com/half_life_eDrug3D.csv) | excretion. continuous label. 1,250 samples. |
-| Clearance-eDrug3D | [link](https://drugdataloader.s3.amazonaws.com/Clearance_eDrug3D.csv) | excretion. continuous label. 963 samples. |
+| HIA |  | absorption. Binary label. 499 positive samples and 78 negative samples. | 
+| bioavailability-eDrug3D | | absorption. Binary label. 492 positive samples and 150 negative samples. | 
+| bioavailability |  | absorption. percentage, continuous label, 529 samples.  | 
+| CACO-2 | | absorption. continuous label, 1,272 samples.  | 
+| BBB | | Distribution. Binary label. 1,282 positive samples and 310 negative samples. | 
+| PPBR |  | Distribution. Binary label. 411 positive samples and 356 negative samples. | 
+| CYP2C19 |  | metabolism. Binary label. "1" means xxx, "0" means. 5,905 positive samples and 7,522 negative samples. |
+| CYP2D6 | | metabolism. Binary label. "1" means xxx, "0" means. 2,769 positive samples and 11,127 negative samples. |
+| CYP3A4 | | metabolism. Binary label. "1" means xxx, "0" means. 2,769 positive samples and 11,127 negative samples. |
+| half-life-eDrug3D || excretion. continuous label. 1,250 samples. |
+| Clearance-eDrug3D |  | excretion. continuous label. 963 samples. |
 | Tox21 | [link](http://moleculenet.ai/datasets-1) | Toxicity. 7,832 samples.  |
 | ToxCast | [link](http://moleculenet.ai/datasets-1) | Toxicity. 8,598 samples. Binary label. |
 | ClinTox | [link](http://moleculenet.ai/datasets-1) | Toxicity. 1,485 samples. Binary label.  |
